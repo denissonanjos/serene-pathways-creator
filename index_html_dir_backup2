@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- SEO Meta Tags -->
+    <title>Imersão Anamnese – Desligue o Sistema da Ansiedade | Grupo Terapêutico Online</title>
+    <meta name="description" content="Grupo terapêutico online para mulheres com ansiedade. Baseado em TCC, aprenda a compreender e regular seu sistema nervoso em 4 encontros transformadores." />
+    <meta name="keywords" content="ansiedade, terapia cognitivo comportamental, TCC, grupo terapêutico, saúde mental, mulheres, anamnese" />
+    <meta name="author" content="Imersão Anamnese" />
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Imersão Anamnese – Desligue o Sistema da Ansiedade" />
+    <meta property="og:description" content="Grupo terapêutico online para mulheres com ansiedade. Aprenda a compreender e regular seu sistema nervoso." />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="pt_BR" />
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Imersão Anamnese – Desligue o Sistema da Ansiedade" />
+    <meta name="twitter:description" content="Grupo terapêutico online para mulheres com ansiedade." />
+    
+    <!-- Canonical -->
+    <link rel="canonical" href="/" />
+    
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
